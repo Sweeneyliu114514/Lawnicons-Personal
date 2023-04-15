@@ -4530,4 +4530,7 @@
   <item component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.MainActivity}" drawable="ali_netdisk" name="阿里云盘" />
   <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.MainActivity}" drawable="baidu_netdisk" name="百度云盘" />
   <item component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}" drawable="douban" name="豆瓣" />
+  <item component="ComponentInfo{com.android.shell/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed" name="LSPosed Widget" />
+  <item component="ComponentInfo{com.github.kr328.clash.foss/com.github.kr328.clash.MainActivity}" drawable="clash_android" name="Clash" />
+  <item component="ComponentInfo{com.getsurfboard/com.getsurfboard.ui.activity.MainActivity}" drawable="surfboard" name="Surfboard" />
 </resources>
