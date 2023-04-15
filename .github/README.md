@@ -1,11 +1,9 @@
 # Lawnicons
 
-[![Build debug APK](https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_debug_apk.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_debug_apk.yml)
-[![Build release APK](https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_release_apk.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_release_apk.yml)
-[![Discord](https://img.shields.io/discord/803299970169700402?label=server&logo=discord)](https://discord.gg/lawnchair-803299970169700402)
+A Lawnicons repo forked from the [official Lawnicons reop](https://github.com/LawnchairLauncher/lawnicons) for my personal use
 
-Lawnicons is an add-on for adding themed icons to [Lawnchair 12 Alpha 5](https://github.com/LawnchairLauncher/lawnchair) and above.
-This addon is now the source of all themed icons, for simplicity.
+## Disclaimer
+This repo was about to be forked from the main branch of official Lanwicons repo at release tag 2.0.0, but due to [renewal of Github policy](https://github.blog/changelog/2022-07-27-you-can-now-fork-a-repo-and-copy-only-the-default-branch/), the main branch as a non-default branch cannot be forked meanwhile the default branch would cause some dependencies issue on my local WSL2 setup. At the end I have to clone the specific branch and push it to my own repo with my personal commits added to that branch.
 
 ## Download
 
